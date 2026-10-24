@@ -1,0 +1,6 @@
+requirements:
+
+Flask
+opencv-python
+numpy
+Pillow
